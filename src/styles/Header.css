@@ -1,0 +1,34 @@
+#heading{
+display: inline-flex;
+padding:20px;
+position: absolute;
+left:100px;
+top: 100px;
+}
+
+.anna{
+
+	color:#fa2a1b;
+}
+
+
+#acronym{
+
+	font-weight: bolder;
+	color:#fa2a1b;
+	font-size:40px;
+}
+
+.realty{
+margin-left: 35px;
+color:#000000;
+
+}
+
+
+
+#heading>div{
+	margin:5px;
+	
+
+}
