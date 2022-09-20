@@ -1,0 +1,15 @@
+#Socials-Address{
+
+position: absolute;
+display:inline-flex;
+left: 185px;
+top: 450px;
+padding-right: 5px;
+
+}
+
+
+#Socials-Address>.socials{
+	margin-left:10px ;
+	
+}

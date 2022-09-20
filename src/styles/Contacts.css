@@ -1,5 +1,33 @@
-#Contacts{
+#info{
 position: absolute;
-left:179px;
+left:185px;
 top: 185px;
+/*background-color: #FF5533;*/
+}
+
+.contacts{
+
+	position: relative;
+	font-weight: bold;
+	left: 10px;
+}
+
+.name-job{
+position: relative;
+left: 15px;
+
+}
+
+.websites{
+
+	font-weight: bold;
+	font-size: 15px;
+	margin-top: 25px;
+
+}
+
+.websites>#link2{
+	position: relative;
+	left: 25px;
+
 }
