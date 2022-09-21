@@ -10,6 +10,43 @@ padding-right: 5px;
 
 
 #Socials-Address>.socials{
-	margin-left:10px ;
+	margin-left:25px ;
 	
+}
+
+
+img{
+
+
+	margin-left:15px;
+	width: 30px;
+	height: 30px;
+
+}
+
+
+
+.socials-imgs{
+
+	padding-left: 20px;
+	display: inline-flex;
+}
+
+
+.address>.line1{
+     	
+     position: relative;
+     left:11px;
+     font-size:12px;
+
+
+}
+
+
+.address>.line2{     	
+
+     position: relative;
+     left:20px;
+     font-size: 12px;
+
 }
