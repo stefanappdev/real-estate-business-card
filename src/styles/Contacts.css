@@ -1,15 +1,19 @@
 #info{
+background-image: url("../../public/images/bwhouse.jpg");	
 position: absolute;
-left:185px;
+left:100px;
 top: 185px;
-/*background-color: #FF5533;*/
+background-color: #FF5533;
+width: 65%;
+height: 50%;
+
 }
 
 .contacts{
-
 	position: relative;
 	font-weight: bold;
 	left: 10px;
+	padding-left: 75px;
 }
 
 .name-job{
@@ -23,11 +27,19 @@ left: 15px;
 	font-weight: bold;
 	font-size: 15px;
 	margin-top: 25px;
-
+	padding-left: 75px;
 }
 
 .websites>#link2{
 	position: relative;
 	left: 25px;
 
+
 }
+
+
+h2,h3{
+
+	padding-left: 80px;
+}
+

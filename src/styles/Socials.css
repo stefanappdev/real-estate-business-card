@@ -2,9 +2,13 @@
 
 position: absolute;
 display:inline-flex;
-left: 185px;
+left: 100px;
 top: 450px;
 padding-right: 5px;
+color: #ffffff;
+background-color: #000000;
+width: 62.5%;
+height: 10%;
 
 }
 
