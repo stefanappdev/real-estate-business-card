@@ -4,9 +4,11 @@ position: absolute;
 left:100px;
 top: 185px;
 background-color: #FF5533;
-width: 65%;
+width: 40%;
 height: 50%;
-
+font-weight: 1000;
+font-size:20.5px;
+color: #ffffff;
 }
 
 .contacts{
@@ -25,7 +27,7 @@ left: 15px;
 .websites{
 
 	font-weight: bold;
-	font-size: 15px;
+	font-size: 16px;
 	margin-top: 25px;
 	padding-left: 75px;
 }

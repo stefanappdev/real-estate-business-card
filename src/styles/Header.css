@@ -1,12 +1,13 @@
 #heading{
-background-image: url("../../public/images/bwhouse.jpg");
+background-image: url("../../public/images/bwhouse.jpg");;
 display: inline-flex;
 padding:20px;
 position: absolute;
 left:100px;
 top: 100px;
 background-color:#3355FF;
-width: 66%;
+width: 40%;
+font-size: 25px;
 }
 
 .anna{
